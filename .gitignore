@@ -23,6 +23,7 @@
 
 ## Other files to ignore
 .DS_Store
+.idea/
 
 ## Settingsfile
 /public_html/wp-config.php
