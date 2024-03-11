@@ -24,6 +24,13 @@
 ## Other files to ignore
 .DS_Store
 .idea/
+.cache/
+.cagefs/
+.cl.selector/
+.config/
+.local/
+.ssh/
+
 
 ## Settingsfile
 /public_html/wp-config.php
