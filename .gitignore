@@ -31,6 +31,5 @@
 .local/
 .ssh/
 
-
 ## Settingsfile
 /public_html/wp-config.php
