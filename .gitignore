@@ -13,7 +13,7 @@
 ## Themes: include the directory, exclude all subdirectories except those specified
 !/public_html/wordpress/wp-content/themes/
 /public_html/wordpress/wp-content/themes/*
-# !/public_html/wordpress/wp-content/themes/deliciousbrains
+#!/public_html/wordpress/wp-content/themes/deliciousbrains
 # Include custom themes here
 
 ## Plugins: include the directory, exclude all subdirectories except those specified
@@ -23,3 +23,6 @@
 
 ## Other files to ignore
 .DS_Store
+
+## Settingsfile
+/public_html/wp-config.php
